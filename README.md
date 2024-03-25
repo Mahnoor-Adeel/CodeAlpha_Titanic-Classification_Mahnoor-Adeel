@@ -1,2 +1,3 @@
 Titanic Classification Problem
-<h2>Titanic Passenger Survival Prediction</h2>
+<h2 align='centre'>Titanic Passenger Survival Prediction</h2>
+
