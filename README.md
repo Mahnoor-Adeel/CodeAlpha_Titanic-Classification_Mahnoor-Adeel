@@ -1,6 +1,9 @@
 Titanic Classification Problem
 <h2 align='center'>Titanic Passenger Survival Prediction</h2>
-<p align = 'center'> This program determines if a person survives based on multiple characteristics such as age, gender, passenger class, and etc. This was part of Data Science Intership with CodeAlpha.</p> <hr>
+<p align = 'center'> This program determines if a person survives based on multiple characteristics such as age, gender, passenger class, and etc. This was part of Data Science Intership with CodeAlpha.</p>
+<a align='center', href="https://github.com/Mahnoor-Adeel/CodeAlpha_Titanic-Classification_Mahnoor-Adeel/blob/main/NoteBook/titanic-problem.ipynb">Exprlore Project!</a>
+<hr>
+
 <h3>Project Workflow :bookmark_tabs: </h3>
 
 **1. Importing Data:** The dataset used for this problem contained infromation about a large nuber of patients and if they survived or not. The source of this dataset is https://www.kaggle.com/competitions/titanic/data?select=train.csv. 
